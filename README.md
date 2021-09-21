@@ -1,6 +1,6 @@
 # managementreports
 Team Name: Team 3
-Roster:
+Roster:\n
 Christopher Simon
 Yan Yan
 Kevin Blum
