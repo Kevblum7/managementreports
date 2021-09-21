@@ -1,5 +1,6 @@
 # managementreports
-Team Name: Team 3.
+Team Name: Team 3
+
 Roster:
 Christopher Simon,
 Yan Yan,
